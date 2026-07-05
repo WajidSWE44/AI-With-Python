@@ -16,7 +16,7 @@ This repository contains my assignments completed as part of the **AI using Pyth
 ### 1. Task1_DigiSkill.ipynb — Python Fundamentals
 - Tax calculation using conditional statements based on salary slabs
 - Building a word-length dictionary from a list of strings
-- Designing a **Chat System** using OOP concepts (`User`, `Message`, `ChatRoom` classes) supporting sending messages, viewing chat history, and users joining/leaving a room
+- Console-based chat system built with User, Message, and ChatRoom classes, implementing sending messages, viewing chat history, and users joining/leaving a chat room
 
 ### 2. Assignment_2.ipynb — House Price Data Preprocessing
 - Loading and exploring the `HousePricePrediction.csv` dataset
